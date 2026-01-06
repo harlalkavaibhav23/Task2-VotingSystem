@@ -1,6 +1,6 @@
 # Task 2: Voting System
 
-This is a smart contract for a simple election between two candidates. It makes sure every person can only vote one time.
+This is a smart contract for a simple election between two candidates. It makes sure that each person can vote only once.
 
 ## How it Works
 
